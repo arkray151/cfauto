@@ -1,5 +1,3 @@
----
-
 # 🚀 Cloudflare Worker 多项目部署管理器 (Ultimate Edition)
 
 这是一个运行在 Cloudflare Worker 上的**高级中控面板**。它允许你通过一个简单的网页界面，批量管理、监控和更新你的所有 VLESS/VMess 节点。
